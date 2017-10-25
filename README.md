@@ -1,5 +1,5 @@
 # tensorflow_with_gtex_data
-Example of using TensorFlow classifier to predict tissue types by expression data
+Example of using TensorFlow and Naive Bayes classifiers to predict tissue types by expression data
 
 Data to Download
 
